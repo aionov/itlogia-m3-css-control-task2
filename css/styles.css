@@ -143,7 +143,8 @@
 
 .bottom-section {
   background: url("../images/bg2.png") white center;
-  padding: 140px 0 140px 0;
+  /* padding: 140px 0 140px 0; */
+  padding: 140px 0 0 0;
 }
 
 .bottom-section-container {
@@ -152,6 +153,7 @@
   padding: 62px 0 45px 0;
   border-radius: 25px;
   margin: 0 auto;
+  /* margin-bottom: 50px; */
 }
 
 .bottom-section-container > * {
@@ -187,6 +189,5 @@
 
 .footer {
   border: 1px solid red;
-  padding-top: 100px;
   height: 108px;
 }
