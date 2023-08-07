@@ -191,3 +191,7 @@
   border: 1px solid red;
   height: 108px;
 }
+
+.footer a {
+  padding-top: 50px;
+}
