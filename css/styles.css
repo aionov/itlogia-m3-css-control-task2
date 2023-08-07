@@ -50,8 +50,8 @@
   text-decoration: none;
 }
 
-.main-container {
-  height: 720px;
+.main-container-gap {
+  height: 205px;
 }
 
 .main-container > * {
@@ -142,7 +142,6 @@
 
 .bottom-section {
   background: url("../images/bg2.png") white center;
-  /* padding: 140px 0 140px 0; */
   padding: 140px 0 0px 0;
 }
 
