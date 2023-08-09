@@ -13,7 +13,6 @@
   font-size: 16px;
   color: #f5da0b;
   display: flex;
-  /* align-content: center; */
   padding: 35px 0 33px 0;
 }
 
@@ -46,7 +45,6 @@
 .menu-item-logo {
   display: flex;
   justify-content: left;
-  /* align-content: center; */
   padding-left: 0;
 }
 
